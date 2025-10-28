@@ -1,0 +1,6 @@
+@Zeus.Orders.API_HostAddress = http://localhost:5009
+
+GET {{Zeus.Orders.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
